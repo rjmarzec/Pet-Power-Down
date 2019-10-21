@@ -1,1 +1,1 @@
-audio_emitter_position(dogemit,x,y,0);
+audio_emitter_position(global.dogemit, x, y, 0)
