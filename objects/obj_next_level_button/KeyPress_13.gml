@@ -1,0 +1,1 @@
+room_goto(global.level_rooms[global.current_level])

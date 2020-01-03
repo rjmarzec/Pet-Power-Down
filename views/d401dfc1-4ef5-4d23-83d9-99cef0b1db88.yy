@@ -1,0 +1,33 @@
+{
+    "id": "d401dfc1-4ef5-4d23-83d9-99cef0b1db88",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "d401dfc1-4ef5-4d23-83d9-99cef0b1db88",
+    "children": [
+        "98ccef2b-c679-42a9-a927-ff8506e4e688",
+        "1b459795-bc30-4cde-ab61-67620cfb696b",
+        "e16b5d57-031a-4dfd-b6c0-282fe23d3301",
+        "abdab7a0-d439-4d2b-ba87-6e8887a188a0",
+        "7d190845-0048-4108-800a-f84267d79757",
+        "87251cc4-32ce-4837-b201-6ba4457c8a1f",
+        "185645c6-b84f-4ecf-ba05-d907d0b8eed8",
+        "83c1c0a2-73a1-45e5-ba81-c611b9b69ad9",
+        "4c4d0db7-0345-4c59-965c-15c68725a60c",
+        "7b716437-1b75-4755-84d6-6f6955d5081e",
+        "69d7f8b5-d60a-4fc3-93df-7aae78ea0e58",
+        "237c1973-01db-42cb-8855-a7d36153243a",
+        "c87fbca3-b5f1-4054-8f09-f12363e15512",
+        "1599ea42-d6cf-4ccb-a17f-d2c1372021b5",
+        "e8a9f4c7-8588-485c-a9bd-f2e4d1158488",
+        "ce93827f-d4f5-4502-a699-647264e23770",
+        "1e1c0f58-9dce-41b0-a6bc-b997ef945628",
+        "c63f5fc5-0806-4207-8990-1573597b7dd4",
+        "023232e2-a0e6-4393-972d-9d7b68f2b717",
+        "8a542903-ecc2-43e4-81be-139c785f95ac",
+        "0bf98aa0-04e7-4012-b8bb-5343a40f31cc"
+    ],
+    "filterType": "GMObject",
+    "folderName": "locks",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
