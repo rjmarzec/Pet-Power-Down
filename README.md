@@ -7,8 +7,8 @@ Pet Power Down (PPD) has you assume the role of various pet owners as they try t
 
 Rooted in audio being the way to play the game, PPD offers and experience that is enjoyable and playable at the same level for people with any level of visual impairment, ranging from none at all to complete blindness.
 
-Contributors and Roles:
-Blake Hall - Menu, Sound, and System Developer
-Robert Marzec - Movement, Pet, and Gameplay Developer
-Agatha Ta-Goetz - Graphics Designer
-Sabrina Xiao - Sprite Artist
+Contributors and Roles:  
+Blake Hall - Menu, Sound, and System Developer<br/>
+Robert Marzec - Movement, Pet, and Gameplay Developer<br/>
+Agatha Ta-Goetz - Graphics Designer<br/>
+Sabrina Xiao - Sprite Artist<br/>
